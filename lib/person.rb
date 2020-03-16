@@ -1,5 +1,5 @@
 class Person
-  def initialize(name)
+  def initialize(name_given)
   end
 
   def name=(name_given)
@@ -14,4 +14,4 @@ class Person
 
   end
 
-Erik = Person.new 
+Erik = Person.new
