@@ -11,4 +11,4 @@ class Dog
     @breed
   end
 end
-Fido = Dog.new("Pug")
+Mutt = Dog.new("Pug")
