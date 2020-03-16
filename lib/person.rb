@@ -1,18 +1,15 @@
-class Person
-  def initialize(name_given)
-    @name = name_given
+class Person 
+  def Initialize(name)
+    @name = name  
   end
 
-  def name=(name_given)
-    @name = name_given
-
+  def name=(name)
+    @name = name 
+    
   end
 
-  def name
-    @name
-  end
+def name 
+  @name
+end
 
-
-  end
-
-Erik = Person.new
+end
