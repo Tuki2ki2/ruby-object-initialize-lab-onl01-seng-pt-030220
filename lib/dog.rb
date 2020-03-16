@@ -1,4 +1,4 @@
-class Dog 
+class Dog
   def initialize(breed)
     if breed == " "
       breed = "Mutt"
@@ -7,18 +7,18 @@ class Dog
   end
 
   def breed=(breed)
-    @breed = breed 
+    @breed = breed
   end
-  def breed 
+  def breed
     @breed
   end
 
   def name=(name)
-    @name = name 
+    @name = name
   end
 
   def name
     @name
   end
-    
+
   end
