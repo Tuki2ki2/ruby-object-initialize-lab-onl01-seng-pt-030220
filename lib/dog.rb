@@ -25,4 +25,4 @@ class Dog
 
   end
 
-test = Dog.new () 
+dog_dog = Dog.new () 
