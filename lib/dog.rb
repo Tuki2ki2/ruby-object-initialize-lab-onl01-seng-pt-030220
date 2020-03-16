@@ -27,4 +27,4 @@ class Dog
   end
 end
 
-dog = Dog.new ()
+dog = Dog.new("Fido", nil)
