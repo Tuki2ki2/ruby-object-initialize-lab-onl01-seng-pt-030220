@@ -10,6 +10,8 @@ class Person
   def name
     @name
   end
-    
+
 
   end
+
+Erik = Person.new 
