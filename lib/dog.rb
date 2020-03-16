@@ -25,4 +25,4 @@ class Dog
 
   end
 
-Gordi = Dog.new () 
+test = Dog.new () 
