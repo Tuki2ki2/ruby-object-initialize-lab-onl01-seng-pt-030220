@@ -26,4 +26,4 @@ class Dog
 
   end
 
-dog_dog = Dog.new () 
+dog_dog = Dog.new ()
