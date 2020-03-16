@@ -25,4 +25,4 @@ class Dog
 
   end
 
-woof = Dog.new()
+Gordi = Dog.new () 
